@@ -8,7 +8,7 @@ O objetivo deste projeto é demonstrar a aplicação prática de **Transformaç�
 
 ## 📸 Resultado Esperado
 
-![Resultado do Jogo](AulaXNA3D002.png)
+![Resultado do Jogo](AulaXNA3D002_screenshot.png)
 
 *Nota: A imagem acima representa o resultado das transformações animadas aplicadas sobre o triângulo 3D.*
 
