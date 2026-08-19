@@ -22,7 +22,7 @@ namespace AulaXNA3D002
 
         public void Update(GameTime gameTime)
         {
-            this.angle += this.speed * gameTime.ElapsedGameTime.Milliseconds * 0.001f;
+            this.angle += this.speed * (float)gameTime.ElapsedGameTime.TotalSeconds;
 
             float auxScale = Math.Abs((float)Math.Sin(MathHelper.ToRadians(this.angle)));
 
